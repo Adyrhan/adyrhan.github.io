@@ -4,7 +4,13 @@
     "repositoryName": "adyrhan.github.io",
     "branch": "master"
   },
+  "site": {},
+  "socialnetwork": {
+    "email": "",
+    "linkedin": "es.linkedin.com/in/adrián-pérez-heredia-65663a56",
+    "github": "adyrhan"
+  },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
