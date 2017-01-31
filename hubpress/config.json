@@ -4,7 +4,9 @@
     "repositoryName": "adyrhan.github.io",
     "branch": "master"
   },
-  "site": {},
+  "site": {
+    "title": "Adrián Perez's Blog"
+  },
   "socialnetwork": {
     "email": "",
     "linkedin": "es.linkedin.com/in/adrián-pérez-heredia-65663a56",
