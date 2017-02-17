@@ -1,0 +1,6 @@
+= Soul File Manager for Android
+
+I'm excited to tell that I'll have a new app soon on the Google Play Store for Android, it is called Soul, and it is a multiple view, remote access capable file manager. I'm currently testing and developing the latest details of it so in the next days or weeks you will be able to try it.
+
+
+
